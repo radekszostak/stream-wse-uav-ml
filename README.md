@@ -5,3 +5,6 @@ This repostory contains code and machine learning dataset used in article *Estim
 Use [ml/main.ipynb](https://github.com/radekszostak/river-wse-uav-ml/blob/master/ml/main.ipynb) notebook to run single training and evaluation.
 
 Use [ml/k_fold.sh](https://github.com/radekszostak/river-wse-uav-ml/blob/master/ml/k_fold.sh) script to run training and evaluation five times (for each k_fold subset).
+
+# Result visualisation
+Scripts used to create plots and result tables featured in article are generated using scripts and data from [plots](https://github.com/radekszostak/river-wse-uav-ml/tree/master/plots) directory.
