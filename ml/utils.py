@@ -247,4 +247,5 @@ def predict(model, dataloader, averaging, device, output_name, dropout_averaging
 
     RMSE = calc_rmse(val_means, targets).item()
     print(f"{output_name} RMSE: {RMSE}")
-    neptune_run[f"predict/{output_name.split('_')[0]}/RMSE"].log(RMSE)
+    if neptune_run:
+        neptune_run[f"predict/{output_name.split('_')[0]}/RMSE"].log(RMSE)
