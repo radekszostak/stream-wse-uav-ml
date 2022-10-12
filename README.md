@@ -7,7 +7,7 @@ Code must be run in Python 3. File [requirements.txt](https://github.com/radeksz
 # Running the training
 Use [ml/main.ipynb](https://github.com/radekszostak/river-wse-uav-ml/blob/master/ml/main.ipynb) notebook to run single training and evaluation.
 
-Use [ml/k_fold.sh](https://github.com/radekszostak/river-wse-uav-ml/blob/master/ml/k_fold.sh) script to run training and evaluation five times (for each k_fold subset).
+Use [ml/k_fold.sh](https://github.com/radekszostak/river-wse-uav-ml/blob/master/ml/k_fold.sh) script to run training and evaluation for each k_fold subset.
 
 # Result visualisation
 Plots and result tables featured in article are generated using scripts and data from [plots](https://github.com/radekszostak/river-wse-uav-ml/tree/master/plots) directory.
