@@ -2,7 +2,7 @@
 This repostory contains code and machine learning dataset used in article ***Estimation of river water surface elevation using UAV photogrammetry and machine learning*** by Radosław Szostak, Marcin Pietroń, Przemysław Wachniew, Mirosław Zimnoch and Paweł Ćwiąkała (AGH UST).
 
 # Requirements
-Code must be run in Python 3. File [requirements.txt](https://github.com/radekszostak/river-wse-uav-ml/blob/master/requirements.txt) contains list of required python libraries.
+Code must be run in Python 3 and Jupyter. File [requirements.txt](https://github.com/radekszostak/river-wse-uav-ml/blob/master/requirements.txt) contains list of required python libraries.
 
 # Running the training
 Use [ml/main.ipynb](https://github.com/radekszostak/river-wse-uav-ml/blob/master/ml/main.ipynb) notebook to run single training and evaluation.
