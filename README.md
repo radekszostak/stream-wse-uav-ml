@@ -1,5 +1,5 @@
 # About
-This repostory contains code and machine learning dataset used in article *Estimation of river water surface elevation using UAV photogrammetry and machine learning*.
+This repostory contains code and machine learning dataset used in article *Estimation of river water surface elevation using UAV photogrammetry and machine learning* created by Radosław Szostak, Marcin Pietroń, Przemysław Wachniew, Mirosław Zimnoch, Paweł Ćwiąkała (AGH UST).
 
 # Running the training
 Use [ml/main.ipynb](https://github.com/radekszostak/river-wse-uav-ml/blob/master/ml/main.ipynb) notebook to run single training and evaluation.
